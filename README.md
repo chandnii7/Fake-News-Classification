@@ -29,5 +29,5 @@ Refer the report for further implementation details, approach, data preprocessin
 
 ### Results:
 <br/>
-<img src="https://github.com/chandnii7/Fake-News-Classification/blob/main/evaluation.jpg" height="300" width="700"/>
+<img src="https://github.com/chandnii7/Fake-News-Classification/blob/main/evaluation.jpg" height="200" width="700"/>
 <br/>
