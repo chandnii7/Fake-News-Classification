@@ -27,7 +27,7 @@ Refer the report for further implementation details, approach, data preprocessin
 <a href="https://github.com/chandnii7/Fake-News-Classification/blob/main/OSNA_FakeNews_Report.pdf">View Report</a>
 <br/><br/>
 
-Results:
+### Results:
 <br/>
-<img src="https://github.com/chandnii7/Fake-News-Classification/blob/main/evaluation.jpg" height="600" width="600"/>
+<img src="https://github.com/chandnii7/Fake-News-Classification/blob/main/evaluation.jpg" height="300" width="700"/>
 <br/>
